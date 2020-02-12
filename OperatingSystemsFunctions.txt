@@ -5,3 +5,7 @@ This function is extremly useful and we often don't even think about it because 
 The operating system is in charge of handeling and processing all input and out operations on your computer.
 It interfaces with multiple things at once in the correct manner to make the use of input and out as effective as possible.
 It also handles the data between different peripheral devices.
+
+A big function of an operating system is the execution of programs. 
+The operating system is responsible for running all all user programs and system programs.
+It uses many resources to run these programs
